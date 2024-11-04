@@ -1,0 +1,84 @@
+@font-face{
+    font-family: "read";
+    src: url(Rakkas-Regular.ttf);
+}
+
+body {
+    background-image: url("bosque.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.container-fluid2{
+    background-color: white;
+    margin-top: 130px;
+    opacity: 75%;
+    width: 80%;
+    margin-left: 8.5%;
+    margin-inline-end: 8%;
+    margin-block-end: 8%;
+}
+.texto1 {
+    text-align: center;
+    font-family: read;
+    font-size: 100px;
+    color: rgb(30, 184, 132);
+}
+
+.foto{
+    width: 50px ;
+    margin-right: 5px;
+    padding: 1%;
+}
+
+.navbar-brand{
+    margin-top: 0%;
+}
+
+.card1-text{
+    text-align:justify;
+    margin:10px 10px 10px 10px ;
+}
+
+.card1-img-top{
+    width: 100px;
+    margin: 10px 10px 10px 5px;
+    padding: 2px;
+}
+
+.card{
+    margin-top: 5%;
+    margin: 3%;
+   
+}
+
+.card-text{
+    text-align:justify;
+}
+
+
+
+.container-fluid3{
+    background-color: white;
+    margin-top: 130px;
+    width: 65%;
+    margin-left: 14%;
+    margin-inline-end: 8%;
+    margin-block-end: 8%;
+}
+
+.texto-mapa{
+    font-family: read;
+    font-size: 40px;
+    margin: 1%;
+    color: darkgreen;
+}
+
+.foto4{
+    margin:2%;
+}
+
+.btn{
+    margin: 2%;
+    margin-left: 45%
+}
